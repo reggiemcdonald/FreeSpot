@@ -3,4 +3,5 @@ client/node_modules/*
 sensor/node_modules/*
 server/dist/*
 .idea/*
+server/cred/*
 
