@@ -13,7 +13,6 @@ To get started:
 - open the project (ideally in WebStorm)
 - `yarn install`
 - `yarn start`
-- click the link that displays in your console
 
 Active endpoints:
 - `/`
