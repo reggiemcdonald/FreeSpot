@@ -3,7 +3,7 @@ Find the nearest unoccupied bike rack.
 
 FreeSpot is a react-native iOS application that maps bike racks and the number of free spots currently available. The app relies on a NodeJS server that is updated in real-time by a Arduino-powered ultrasonic sensor at the bike rack.
 
-To build this project:
+### To build this project:
 - `git clone`
 ### Build the server
 - `cd server`
