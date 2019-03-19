@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1A0F2618-578C-40C2-AFED-92B28BFBA10A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A0F2618-578C-40C2-AFED-92B28BFBA10A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FreeSpot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FreeSpot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FreeSpot with scheme FreeSpot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574711919.44647205</real>
+			<key>timeStoppedRecording</key>
+			<real>574712010.78791499</real>
+			<key>title</key>
+			<string>Building project FreeSpot with scheme FreeSpot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1A0F2618-578C-40C2-AFED-92B28BFBA10A</string>
+		</dict>
+		<key>C7B59A5C-669C-40A1-B5F0-3CAB12BEFBB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7B59A5C-669C-40A1-B5F0-3CAB12BEFBB3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FreeSpot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FreeSpot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FreeSpot with scheme FreeSpot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574557927.85519803</real>
+			<key>timeStoppedRecording</key>
+			<real>574557929.75579095</real>
+			<key>title</key>
+			<string>Building project FreeSpot with scheme FreeSpot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C7B59A5C-669C-40A1-B5F0-3CAB12BEFBB3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+{
+  "name": "bike-lock-sensor",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "serialport": "^7.1.4"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
